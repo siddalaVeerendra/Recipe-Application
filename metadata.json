@@ -1,0 +1,6 @@
+{
+  "name": "TastyBite – Recipe Finder",
+  "description": "Smart Recipe Finder Flutter application with real TheMealDB API integration, local storage, custom recipe creation, and complete project submission kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
